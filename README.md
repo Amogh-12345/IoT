@@ -143,8 +143,9 @@ Contact: 8amogh@gmail.com
 If you use this instrument in research, please cite:
 
 ```
-[Author] (2025). Physical Causality Verification: A Media-Agnostic Instrument
-for Detecting Synthetic and Manipulated Files. arXiv preprint. [arXiv URL]
+G K, A. (2026). Physical Causality Verification: A Media-Agnostic Instrument 
+for Detecting Synthetic and Manipulated Files. Zenodo. 
+https://doi.org/10.5281/zenodo.20786125
 ```
 
 ---
