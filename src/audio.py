@@ -1,3 +1,7 @@
+# EXPERIMENTAL — theoretical extension to audio domain
+# Not yet empirically validated
+# See images.py for the validated implementation
+
 import numpy as np
 import librosa
 import allantools
